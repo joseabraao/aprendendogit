@@ -1,6 +1,4 @@
 Ola meu nome é abraão
-<<<<<<< HEAD
 Ola meu nome completo é jose abraao e silva
-=======
 Ola eu sou uma nova linha
->>>>>>> 9b7888305870a541faa195d6900da7599600c86c
+
